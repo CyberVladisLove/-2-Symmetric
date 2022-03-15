@@ -1,0 +1,7 @@
+C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap3\SymmetricAlgorithms\bin\Debug\SymmetricAlgorithms.exe
+C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap3\SymmetricAlgorithms\bin\Debug\SymmetricAlgorithms.pdb
+C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap3\SymmetricAlgorithms\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap3\SymmetricAlgorithms\obj\Debug\SymmetricAlgorithms.SymmetricAlgorithms.resources
+C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap3\SymmetricAlgorithms\obj\Debug\SymmetricAlgorithms.csproj.GenerateResource.Cache
+C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap3\SymmetricAlgorithms\obj\Debug\SymmetricAlgorithms.exe
+C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap3\SymmetricAlgorithms\obj\Debug\SymmetricAlgorithms.pdb

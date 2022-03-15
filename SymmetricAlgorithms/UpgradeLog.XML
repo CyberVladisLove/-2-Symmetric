@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SymmetricAlgorithms">
+</Property><Property Name="Файл решения" Value="C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap3\SymmetricAlgorithms\SymmetricAlgorithms.sln">
+</Property><Property Name="Date" Value="7 сентября 2010 г.">
+</Property><Property Name="Time" Value="23:37">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SymmetricAlgorithms.sln" Description="Успешно создана резервная копия файла C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap3\SymmetricAlgorithms\Backup\SymmetricAlgorithms.sln">
+</Event><Event ErrorLevel="0" Project="SymmetricAlgorithms" Source="SymmetricAlgorithms.csproj" Description="Успешно создана резервная копия файла проекта: C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap3\SymmetricAlgorithms\Backup\SymmetricAlgorithms.csproj">
+</Event><Event ErrorLevel="0" Project="SymmetricAlgorithms" Source="SymmetricAlgorithms.csproj.user" Description="Резервная копия проекта успешно создана как C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap3\SymmetricAlgorithms\Backup\SymmetricAlgorithms.csproj.user">
+</Event><Event ErrorLevel="0" Project="SymmetricAlgorithms" Source="AssemblyInfo.cs" Description="Успешно создана резервная копия файла C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap3\SymmetricAlgorithms\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="SymmetricAlgorithms" Source="SymmetricAlgorithms.cs" Description="Успешно создана резервная копия файла C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap3\SymmetricAlgorithms\Backup\SymmetricAlgorithms.cs">
+</Event><Event ErrorLevel="0" Project="SymmetricAlgorithms" Source="App.ico" Description="Успешно создана резервная копия файла C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap3\SymmetricAlgorithms\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="SymmetricAlgorithms" Source="SymmetricAlgorithms.resx" Description="Успешно создана резервная копия файла C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap3\SymmetricAlgorithms\Backup\SymmetricAlgorithms.resx">
+</Event><Event ErrorLevel="0" Project="SymmetricAlgorithms" Source="SymmetricAlgorithms.csproj" Description="Проект успешно преобразован">
+</Event><Event ErrorLevel="3" Project="SymmetricAlgorithms" Source="SymmetricAlgorithms.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SymmetricAlgorithms.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="SymmetricAlgorithms.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SymmetricAlgorithms" Source="SymmetricAlgorithms.csproj" Description="Сканирование завершено: обновление для файлов проекта не требуется.">
+</Event></UpgradeLog>
