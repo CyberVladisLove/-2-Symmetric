@@ -24,7 +24,7 @@ namespace EncryptionCompare
                 {
                     try
                     {
-                        var cm = CipherMode.ECB;
+                        var cm = Algorithm.GetCipherMode(j);
                         alg.SetCipherMode(cm);
                         var time = Timer(() => alg.Encryption_Decryption(content));
                         var row = new Row(alg.Name, cm.ToString(), time.ToString());
